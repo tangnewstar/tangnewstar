@@ -1,17 +1,56 @@
-## 🏆 成就墙
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tangnewstar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tangnewstar&layout=compact&theme=radical)
+<h1 align="center">Hi there, I'm tangnewstar 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open+Source+Enthusiast;Building+things+with+code&center=true&width=500&height=50&color=333&pause=1000&size=22" />
+</p>
 
-## 🎲 每日随机语录
-> "如果代码能跑，就别碰它" — 某个不愿透露姓名的开发者
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tangnewstar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/tangnewstar?label=Followers&style=flat" />
+</p>
 
-## 🎁 宝箱（精选项目）
-- [🌟 超棒项目](链接) - 这个项目让我升了 10 级
-- [🔥 热门项目](链接) - 被 100+ 开发者使用
-- [💡 最新项目](链接) - 正在开发中...
+---
 
-## 📮 联系 NPC
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/你的推特)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tangscode@163.com)
+## 📌 About Me
 
-> *警告：本玩家沉迷代码，无法自拔*
+- 💼 Full-Stack Developer
+- 🌱 Currently learning and exploring new technologies
+- 🛠️ Focused on building practical, high-quality software
+- 📖 Open Source contributor
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tangnewstar&show_icons=true&theme=default&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tangnewstar&theme=default&hide_border=true" height="170" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangnewstar&layout=compact&theme=default&hide_border=true" height="170" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,vue,nodejs,docker,git,linux,mysql,redis,vscode&theme=light" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [🌟 超棒项目](链接) | 一句话描述项目核心功能 |
+| [🔥 热门项目](链接) | 一句话描述项目核心功能 |
+| [💡 最新项目](链接) | 一句话描述项目核心功能 |
+
+---
+
+## 📮 Get In Touch
+
+<p align="center">
+  <a href="https://twitter.com/你的推特"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:tangscode@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
