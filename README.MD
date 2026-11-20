@@ -42,7 +42,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [🌟 超棒项目](链接) | 一句话描述项目核心功能 |
+| [🌟 个人文档](https://github.com/tangnewstar/tangnewstar.github.io.git) | 后端架构学习路线 |
 | [🔥 热门项目](链接) | 一句话描述项目核心功能 |
 | [💡 最新项目](链接) | 一句话描述项目核心功能 |
 
